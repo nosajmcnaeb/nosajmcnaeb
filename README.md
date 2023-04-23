@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jason, an <a href="https://linkedin.com/in/jason-mcbean-37ba9537,,,,,,,,">IT Professional</a></h1>
+<h1>Hi, I'm Jason, an <a href="https://linkedin.com/in/jason-mcbean-37ba9537">IT Professional</a></h1>
 
 <h2>Information Technology Projects:</h2>
 
@@ -20,4 +20,3 @@
 [instagram]: https://www.instagram.com/...
 [linkedin]: https://linkedin.com/in/....
 [reddit]: https://www.reddit.com/
-///
